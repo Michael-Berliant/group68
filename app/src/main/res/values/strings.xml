@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">group68</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="submit">submit</string>
+    <string name="register">register</string>
+    <string name="login_now">Login Now</string>
+    <string name="register_now">Register Now</string>
+    <string name="log_out">Log Out</string>
+    <string name="welcome_firstname_you_are_logged_in_as_role">Welcome firstname! You are logged in as “role”.</string>
+</resources>
